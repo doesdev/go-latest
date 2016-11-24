@@ -1,0 +1,36 @@
+{
+  "name": "go-latest",
+  "version": "1.0.0",
+  "description": "Get latest GO version tag",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doesdev/go-latest.git"
+  },
+  "files": [
+    "index.js",
+    "cli.js"
+  ],
+  "bin": {
+    "go-latest": "cli.js"
+  },
+  "keywords": [
+    "go",
+    "golang",
+    "latest",
+    "version",
+    "tag"
+  ],
+  "author": "Andrew Carpenter (https://github.com/doesdev)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doesdev/go-latest/issues"
+  },
+  "homepage": "https://github.com/doesdev/go-latest#readme",
+  "dependencies": {
+    "go-versions": "^1.0.0"
+  }
+}
