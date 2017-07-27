@@ -1,4 +1,4 @@
-# go-latest [![NPM version](https://badge.fury.io/js/go-latest.svg)](https://npmjs.org/package/go-latest)   [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
+# go-latest [![NPM version](https://badge.fury.io/js/go-latest.svg)](https://npmjs.org/package/go-latest)   [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)   [![Dependency Status](https://dependencyci.com/github/doesdev/go-latest/badge)](https://dependencyci.com/github/doesdev/go-latest)
 
 > Get latest GO version tag
 
