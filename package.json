@@ -1,6 +1,6 @@
 {
   "name": "go-latest",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Get latest GO version tag",
   "main": "index.js",
   "scripts": {
@@ -31,6 +31,6 @@
   },
   "homepage": "https://github.com/doesdev/go-latest#readme",
   "dependencies": {
-    "go-versions": "^1.0.0"
+    "go-versions": "^1.1.0"
   }
 }
